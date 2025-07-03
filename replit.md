@@ -91,6 +91,8 @@ The application uses a hybrid approach where the Express server serves both the 
 ```
 Changelog:
 - July 03, 2025. Initial setup
+- July 03, 2025. Added session middleware to fix cart functionality
+- July 03, 2025. Created local deployment package with comprehensive documentation
 ```
 
 ## User Preferences
